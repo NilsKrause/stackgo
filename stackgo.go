@@ -1,6 +1,6 @@
 // All you need to work with stackgo stacks
 //
-// For an example usage visit http://github.com/alediaferia/stackgo
+// For an example usage visit http://github.com/NilsKrause/stackgo
 package stackgo
 
 type Stack struct {
